@@ -1,2 +1,4 @@
 #!bin/bash
-echo "$pwd"
+ln /bin/ls_ls_
+
+
