@@ -1,1 +1,2 @@
-Ian
+#!bin/bash
+pwd
