@@ -1,4 +1,5 @@
 #!bin/bash
-ln /bin/ls_ls_
+pwd
+
 
 
