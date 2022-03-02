@@ -1,2 +1,2 @@
 #!bin/bash
-pwd $'\n'
+ln /bin/ls_ls_
